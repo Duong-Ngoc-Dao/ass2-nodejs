@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "Cơm tôm 123",
+      "description": "ádasdasd",
+      "price": "3001"
+    },
+    {
+      "name": "cơm ngon",
+      "price": "2000",
+      "image": "https://img.freepik.com/free-photo/dietary-menu-healthy-vegan-salad-vegetables-broccoli-mushrooms-spinach-quinoa-bowl-flat-lay-top-view_2829-20115.jpg",
+      "description": "Dietary menu. healthy vegan salad of vegetables - broccoli, mushrooms, spinach and quinoa in a bowl. flat lay. top view",
+      "categoryId": {
+        "idCate": 1,
+        "nameCate": "Món chính"
+      },
+      "id": 5
+    },
+    {
+      "name": "Friied eggs with vegetables",
+      "price": "3000",
+      "image": "https://img.freepik.com/free-photo/friied-eggs-with-vegetables_2829-10925.jpg",
+      "description": "Friied eggs with vegetablesFriied eggs with vegetablesFriied eggs with vegetablesFriied eggs with vegetables",
+      "categoryId": {
+        "idCate": 1,
+        "nameCate": "Món chính"
+      },
+      "id": 7
+    },
+    {
+      "name": "San pham AXA",
+      "price": "4500",
+      "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg",
+      "description": "Free photo crispy fried chicken on a plate with salad and carrot",
+      "categoryId": {
+        "idCate": 2,
+        "nameCate": "Fast Food"
+      },
+      "id": 6
+    },
+    {
+      "name": "cơm chiên nước nắm",
+      "price": "3000",
+      "description": "ngon lành nhá",
+      "categoryId": {
+        "idCate": 2,
+        "nameCate": "Fast Food"
+      },
+      "id": 8
+    },
+    {
+      "name": "gà sốt me",
+      "description": "ngon",
+      "price": "300",
+      "id": 9
+    }
+  ]
+}
